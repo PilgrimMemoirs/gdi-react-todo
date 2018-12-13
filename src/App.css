@@ -1,5 +1,10 @@
+* { text-align: center; }
+
+h1 { }
+
 .App {
-  max-width: 1240px;
+  max-width: 500px;
+  width: 50%; 
   margin: 0 auto;
 }
 
@@ -10,9 +15,8 @@
 }
 
 .todo {
-  width: 200px;
+  width: 100%;
   border: 1px solid orange;
-  border-top: 2px solid orange;
   min-height: 30px;
   margin-bottom:2px;
 }
